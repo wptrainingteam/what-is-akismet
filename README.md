@@ -53,7 +53,7 @@ Akismet is installed by default with WordPress, but if you do not see it in your
 ### Akismet Settings:
 
 1.  Once you install and activate your plugin, review the settings panel.
-2.  Go to Settings/Akismet;
+2.  Go to Settings > Akismet Anti-Spam.
 3.  Select if you'd like to show the number of approved comments beside each author.
 4.  Select your strictness level.
 5.  Save the changes.
