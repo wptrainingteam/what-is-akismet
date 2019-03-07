@@ -16,7 +16,7 @@ After completing this lesson, you will be able to:
 You will be better equipped to work through this lesson if you have experience in and familiarity with:
 
 *   [A basic WordPress Knowledge](https://make.wordpress.org/training/handbook/user-lessons/basic-wordpress-concepts/)
-*   [A knowledge of installing Plugins.](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-plugins/)
+*   [A knowledge of installing Plugins.](https://github.com/wptrainingteam/choosing-and-installing-plugins)
 
 ## Assets
 
